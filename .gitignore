@@ -1,3 +1,9 @@
 FE/node_modules/
+
 FE/.env
+
 BE/node_modules/
+
+*/node_modules/*
+
+.DS_Store
